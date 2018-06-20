@@ -1,5 +1,8 @@
 def simple_curfew_checker(time)
-  # code goes here
+  if time < 6
+    puts "You're not late!"# code goes here
+  else
+    puts "Keep having fun!"
 end
 
 def curfew_checker(time)

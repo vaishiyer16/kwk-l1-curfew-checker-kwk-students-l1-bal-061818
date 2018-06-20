@@ -5,7 +5,7 @@ def simple_curfew_checker(time)
     puts "Keep having fun!"
   end
 end
-time(16)
+simple_curfew_checker(16)
 #else
   #puts "You are in trouble"
 
